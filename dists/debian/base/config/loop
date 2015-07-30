@@ -1,0 +1,5 @@
+#/bin/bash
+
+for file in /config/source/*; do
+    bash "$file"
+done
