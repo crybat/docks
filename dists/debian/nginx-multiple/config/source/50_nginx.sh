@@ -1,3 +1,3 @@
 #/bin/bash
 
-mkdir -p /data/apps /data/http /data/logs
+mkdir -p /data/apps /data/logs
