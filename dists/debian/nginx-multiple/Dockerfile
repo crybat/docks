@@ -1,4 +1,4 @@
-FROM mauropinto/debian:latest
+FROM battousai/debian:latest
 MAINTAINER Mauro Pinto <mauro.s.pinto@gmail.com>
 
 ADD etc/apt /etc/apt

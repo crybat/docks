@@ -1,4 +1,4 @@
-FROM mauropinto/debian-nginx-multiple:latest
+FROM battousai/debian-nginx-multiple:latest
 MAINTAINER Mauro Pinto <mauro.s.pinto@gmail.com>
 
 RUN apt-get update && \
